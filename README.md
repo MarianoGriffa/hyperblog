@@ -11,6 +11,8 @@ Un blog increible para el curso de Git y Github de Platzi https://platzi.com/cla
 - Las buenas practicas en el desarrollo
 - Algunos trucos
 - Lo increible del pull requets
+- Creado por el increíble Platzi team  
+
 
 > > Como un buen recordatorio: **Este readme.md es una buena práctica**.
 Diseñado para el ejemplo.Si llegas aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso.https://platzi.com/clases/git-github/
