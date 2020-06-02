@@ -12,6 +12,9 @@ Un blog increible para el curso de Git y Github de Platzi https://platzi.com/cla
 - Algunos trucos
 - Lo increible del pull requets
 - Creado por el increíble Platzi team  
+- Creado por el increíble Platzi team 
+- Incluye ejemplos en Windows, Linux y Mac 
+- Disponible para todas las edades  
 
 
 > > Como un buen recordatorio: **Este readme.md es una buena práctica**.
